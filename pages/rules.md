@@ -17,6 +17,8 @@ You will like those projects!
 
 ---
 
+`/mark pepega 123`
+
 # h1 Heading 8-)
 
 ## h2 Heading
@@ -125,7 +127,7 @@ console.log(foo(5));
 ## Tables
 
 | Option | Description                                                               |
-| ------ | ------------------------------------------------------------------------- |
+| :----- | :------------------------------------------------------------------------ |
 | data   | path to data files to supply the data that will be passed into templates. |
 | engine | engine to be used for processing templates. Handlebars is the default.    |
 | ext    | extension to be used for dest files.                                      |
